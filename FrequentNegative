@@ -1,0 +1,17 @@
+	================================================================
+	Triaing Data: Positive - 10250 tweets  
+		      Negative - 10048 tweets
+		      
+	Test Data: 500 tweets per hour, collected for 24 hours(May 16th)
+	================================================================
+
+	OPTIONS:
+	  1 = Find most frequent word used to express positive feelings
+	  2 = Find most frequent word used to express negative feelings
+	  3 = view all the emotion score grouped by hour
+	  4 = Check if a special lexicon affected people's emotion
+	  5 = Quit
+
+	================================================================
+
+Enter Option: 
